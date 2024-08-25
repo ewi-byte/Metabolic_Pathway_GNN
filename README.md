@@ -4,6 +4,7 @@ This project implements a Graph Neural Network in Julia for analyzing and predic
 
 ## Directory Structure
 
+```
 Metabolic_Pathway_GNN/
 ├── src/
 │   ├── data_preprocessing.jl
@@ -15,3 +16,4 @@ Metabolic_Pathway_GNN/
 ├── Project.toml
 ├── .gitignore
 └── README.md
+```
