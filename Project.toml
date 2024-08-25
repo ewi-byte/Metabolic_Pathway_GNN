@@ -1,0 +1,10 @@
+name = "Metabolic_Pathway_GNN"
+uuid = "123e4567-e89b-12d3-a456-426614174000"
+authors = ["Peter Graham"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-4e57-5629-aaf1-05e718be870b"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+GraphNeuralNetworks = "eaebf823-b405-5692-9b41-ef1557b9d094"
